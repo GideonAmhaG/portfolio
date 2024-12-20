@@ -6,22 +6,21 @@ Welcome to my portfolio repository! This collection highlights a variety of proj
 
 ## Projects
 
-### 1. [Yegna Blog](https://github.com/GideonAmhaG/yegna-blog)
+### 1. [Yegnaface](https://github.com/GideonAmhaG/yegna-face)
+- **Description:** Yegnaface is a social media app for Ethiopians, built with the MERN stack, offering features like user authentication, posting, and friend management..
+- **Technologies:** MERN, Redux, Material-UI.
+
+---
+
+### 2. [Yegna Blog](https://github.com/GideonAmhaG/yegna-blog)
 - **Description:** Yegna Blog is a MERN app for creating and sharing blog posts with features like authentication, commenting, and an admin dashboard.
 - **Technologies:** MERN, Redux, Flowbite-UI.
 
 ---
 
-### 2. [Yegna Estate](https://github.com/GideonAmhaG/MERN-estate)
+### 3. [Yegna Estate](https://github.com/GideonAmhaG/MERN-estate)
 - **Description:** A comprehensive MERN estate app for managing listings with user authentication, search filters, CRUD operations, and responsive design.
 - **Technologies:** MERN, Redux, Tailwind CSS.
-
----
----
-
-### 3. [Yegnaface](https://github.com/GideonAmhaG/yegna-face)
-- **Description:** Yegnaface is a social media app for Ethiopians, built with the MERN stack, offering features like user authentication, posting, and friend management..
-- **Technologies:** MERN, Redux, Material-UI.
 
 ---
 
